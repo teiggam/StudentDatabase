@@ -9,10 +9,10 @@ namespace Student_Database
     {
         static void Main(string[] args)
         {
-            List<string> studentNames = new List<string>() { "null", "Mark Haines", "James Moulton", "Andrew Klima", "Tommy Waalkes", "Maggie Tamanini", "Jerome Brown", "Trent Nedbal", "Troy Vizina", "Kevin Jackson II", "Joshua Carolin", "Sean Boatman" };
-            List<string> hometowns = new List<string>() { "null", "Grand Rapids", "Toledo", "Grayslake", "Raleigh", "Montrose", "Milwaukee", "Rochester", "Indian River", "Detroit", "Northville", "Eaton Rapids" };
-            List<string> favFood = new List<string>() { "null", "Cilantro", "Sushi", "Sushi", "Chicken Curry", "Movie Theatre Popcorn", "Italian Cuisine", "Tacos", "Broccoli", "Asian Cuisine", "Nalesniki", "Meat" };
-            List<string> homeState = new List<string>() { "null", "Michigan", "Ohio", "Illinois", "North Carolina", "Michigan", "Wisconsin", "Michigan", "Michigan", "Michigan", "Michigan", "Michigan" };
+            List<string> studentNames = new List<string>() { "null", "Mark Haines", "James Moulton", "Andrew Klima", "Tommy Waalkes", "Maggie Tamanini", "Jerome Brown", "Trent Nedbal", "Troy Vizina", "Kevin Jackson II", "Joshua Carolin", "Sean Boatman", "Kate Datema" };
+            List<string> hometowns = new List<string>() { "null", "Grand Rapids", "Toledo", "Grayslake", "Raleigh", "Montrose", "Milwaukee", "Rochester", "Indian River", "Detroit", "Northville", "Eaton Rapids", "Zeeland"};
+            List<string> favFood = new List<string>() { "null", "Cilantro", "Sushi", "Sushi", "Chicken Curry", "Movie Theatre Popcorn", "Italian Cuisine", "Tacos", "Broccoli", "Asian Cuisine", "Nalesniki", "Meat", "Pizza" };
+            List<string> homeState = new List<string>() { "null", "Michigan", "Ohio", "Illinois", "North Carolina", "Michigan", "Wisconsin", "Michigan", "Michigan", "Michigan", "Michigan", "Michigan", "Michigan"};
 
 
             Console.WriteLine("Welcome to the May 2021 C# Class!");
@@ -21,7 +21,7 @@ namespace Student_Database
             bool again = true;
             while (again == true)
             {
-                string input = GetStudentNumber($"Which class member would you like to learn about? (Enter a number 1-11)");
+                string input = GetStudentNumber($"Which class member would you like to learn about? (Enter a number 1-12)");
 
                 int index = int.Parse(input);
 
@@ -82,7 +82,7 @@ namespace Student_Database
             Console.WriteLine(message);
             string input = Console.ReadLine().ToLower().Trim();
             int input1 = int.Parse(input);
-            if (input1 > 11)
+            if (input1 > 12)
             {
                 return "That member does not exist.";
 
