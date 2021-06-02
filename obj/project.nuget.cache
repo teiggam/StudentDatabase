@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "23IdV/2rQa0IKzsrJ1boeWm90suSGE/J8cCwYiUEw8G92gh6u56i7qNVq+vYlvtRlWkkTTAzggsg0e+fumzzGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maggie\\Documents\\Grand Circus\\Projects\\Student Database\\Student Database\\Student Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maggie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Maggie\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Maggie\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Maggie\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

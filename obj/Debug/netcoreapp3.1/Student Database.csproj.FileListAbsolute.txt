@@ -1,0 +1,13 @@
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\obj\Debug\netcoreapp3.1\Student Database.csprojAssemblyReference.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\obj\Debug\netcoreapp3.1\Student Database.AssemblyInfoInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\obj\Debug\netcoreapp3.1\Student Database.AssemblyInfo.cs
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\obj\Debug\netcoreapp3.1\Student Database.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\bin\Debug\netcoreapp3.1\Student Database.exe
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\bin\Debug\netcoreapp3.1\Student Database.deps.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\bin\Debug\netcoreapp3.1\Student Database.runtimeconfig.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\bin\Debug\netcoreapp3.1\Student Database.runtimeconfig.dev.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\bin\Debug\netcoreapp3.1\Student Database.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\bin\Debug\netcoreapp3.1\Student Database.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\obj\Debug\netcoreapp3.1\Student Database.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\obj\Debug\netcoreapp3.1\Student Database.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\Student Database\Student Database\obj\Debug\netcoreapp3.1\Student Database.genruntimeconfig.cache
